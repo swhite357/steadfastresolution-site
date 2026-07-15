@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F0F3FA"/>
+  <rect x="1" y="1" width="798" height="598" fill="none" stroke="#D9E0EF" stroke-width="2" stroke-dasharray="10 8"/>
+  <g stroke="#C9D4E6" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M280 320 L400 220 L520 320"/>
+    <path d="M310 310 V400 H490 V310"/>
+    <rect x="372" y="345" width="56" height="55"/>
+  </g>
+  <text x="400" y="470" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#455973">PLACEHOLDER PHOTO 3</text>
+  <text x="400" y="505" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#455973">Swap for a real job photo — see gallery-data.js</text>
+</svg>
